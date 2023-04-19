@@ -13,7 +13,7 @@ module.exports = {
     return [
       {
         // matching all API routes
-        source: "/api/:path*",
+        source: "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         headers: [
           { key: "Access-Control-Allow-Credentials", value: "true" },
           { key: "Access-Control-Allow-Origin", value: "*" },
