@@ -49,7 +49,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>OpenSea, the largest NFT marketplace</title>
+        <title>Digital dreamscapes an Open source free to all NFT marketplace</title>
       </Head>
 
       <TopNavbarLayout>
